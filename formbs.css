@@ -1,0 +1,11 @@
+label{
+	height: 25px;
+	width: 120px;
+	display: inline-block;
+}
+.error{
+	color:red;
+}
+.correct{
+	color: green;
+}
